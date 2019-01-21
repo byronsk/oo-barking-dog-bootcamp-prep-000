@@ -10,4 +10,6 @@ def name
   @name
 end
 
+class Dog
+  def 
   
